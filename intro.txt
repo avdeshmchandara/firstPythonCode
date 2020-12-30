@@ -1,0 +1,9 @@
+Practicing by writing programs, is undoubtedly the best way to learn a programming language. And its almost a convention to start 
+with ‘Hello World’ program, which simply prints “Hello World” to the screen. Python is a powerful tool, so a ‘Hello World’ would 
+take just one line of code, so we start with something not as trivial. Following is our choice of first program. This has been 
+designed to be simple yet it contains almost all the components of how a well structured code should look like. This program 
+establishes a primary driving function called ‘main’, which inturn calls two other functions namely the ‘first_function‘ and the 
+‘second_function‘.
+
+We will assume that the reader is already fimiliar with a bit of python, and understands the importance of correly indenting the 
+code.
